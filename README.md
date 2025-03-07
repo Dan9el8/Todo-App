@@ -46,8 +46,8 @@ Before you begin, ensure you have the following installed:
 ### Backend (Django)
 
 1. **Clone the repository**:
-   git clone https://github.com/your-username/todo-project.git
-   cd todo-project/backend
+   git clone https://github.com/dan9el8/Todo-App.git
+   cd Todo App/backend
    
 
 2. **Create a virtual environment**:
@@ -118,7 +118,7 @@ The Django backend exposes the following RESTful API endpoints:
 
 CORS (Cross-Origin Resource Sharing) is configured in the Django backend to allow requests from the React frontend. This is done using the `django-cors-headers` package. The following settings are added to `settings.py`:
 
-```python
+
 INSTALLED_APPS = [
     ...
     'corsheaders',

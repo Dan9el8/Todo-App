@@ -1,6 +1,4 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
-# TODO Project with Django, React, Axios, and CORS Headers
+## Todo App
 
 Todo App is a full-stack web application built with **Django** as the backend and **React** as the frontend. The project supports CRUD performance. It details the step by step procedure for creating and connecting fullstack application using django and react technologies. 
 
